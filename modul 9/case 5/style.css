@@ -1,0 +1,21 @@
+#main {
+    margin-top: 30px;
+    text-align: center;
+}
+
+input {
+    margin: 20px 5px;
+}
+
+button {
+    background: darkblue;
+    color: white;
+}
+
+#textarea {
+    margin: 20px 5px;
+}
+
+#photo {
+    margin: 20px 5px;
+}
